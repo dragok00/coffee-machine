@@ -1,0 +1,1 @@
+This Python program simulates a coffee vending machine. It allows users to order coffee (espresso, latte, or cappuccino), provides reports on available resources, checks for sufficient ingredients, and handles payment with coin input.
